@@ -11,3 +11,4 @@ payload:
   - DOMAIN-SUFFIX,hkt-smartline.com
   - DOMAIN-SUFFIX,cloudnifier.com
   - DOMAIN-SUFFIX,clip-technology.com
+  - IP-ASN,17554
