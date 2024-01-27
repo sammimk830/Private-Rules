@@ -5,3 +5,4 @@ payload:
   - DOMAIN-SUFFIX,tealiumiq.com
   - DOMAIN-SUFFIX,eum-appdynamics.com
   - DOMAIN-SUFFIX,connectivitycheck.gstatic.com
+  - DOMAIN-SUFFIX,googleapis.cn
