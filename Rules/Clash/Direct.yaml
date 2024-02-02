@@ -1,14 +1,8 @@
 payload:
   - DOMAIN-SUFFIX,essmart.co
   - DOMAIN-SUFFIX,cn
-  - DOMAIN-SUFFIX,moneydata.hk
   - DOMAIN-SUFFIX,apple.com
   - DOMAIN-SUFFIX,futuhongkong.com
   - DOMAIN-SUFFIX,apple.news
-  - DOMAIN-SUFFIX,cloudsoftphone.com
-  - DOMAIN-SUFFIX,youclink.com
-  - DOMAIN-SUFFIX,pccwmobile.com
-  - DOMAIN-SUFFIX,hkt-smartline.com
   - DOMAIN-SUFFIX,cloudnifier.com
   - DOMAIN-SUFFIX,clip-technology.com
-  - IP-ASN,17554
