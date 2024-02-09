@@ -1,0 +1,16 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                ".bochk.com",
+                ".sc.com",
+                ".hk",
+                ".tealiumiq.com",
+                ".eum-appdynamics.com",
+                ".connectivitycheck.gstatic.com",
+                ".googleapis.cn"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                ".essmart.co",
+                ".cn",
+                ".cloudnifier.com",
+                ".clip-technology.com"
+            ]
+        }
+    ]
+}
