@@ -4,6 +4,10 @@
         {
             "domain_suffix": [
                 ".cn"
+            ],
+            "domain":[
+                "hkovpn.cloudnifier.com",
+                "hksslvpn.cloudnifier.com"
             ]
         }
     ]

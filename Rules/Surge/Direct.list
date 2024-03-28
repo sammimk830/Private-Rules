@@ -3,3 +3,5 @@ USER-AGENT,Weibo*
 USER-AGENT,MicroMessenger*
 USER-AGENT,WeChat*
 DOMAIN-SUFFIX,cn
+DOMAIN,hkovpn.cloudnifier.com
+DOMAIN,hksslvpn.cloudnifier.com
