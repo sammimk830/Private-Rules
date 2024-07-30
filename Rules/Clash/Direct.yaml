@@ -2,3 +2,4 @@ payload:
   - DOMAIN-SUFFIX,cn
   - DOMAIN,hkovpn.cloudnifier.com
   - DOMAIN,hksslvpn.cloudnifier.com
+  - DOMAIN-SUFFIX,galaxyappstore.com
