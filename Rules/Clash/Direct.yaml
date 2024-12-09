@@ -3,3 +3,7 @@ payload:
   - DOMAIN,hkovpn.cloudnifier.com
   - DOMAIN,hksslvpn.cloudnifier.com
   - DOMAIN-SUFFIX,galaxyappstore.com
+  - DOMAIN,adfs.gftgrouphk.com
+  - DOMAIN,test365.gftgrouphk.com
+  - DOMAIN,tanx.com
+  - DST-PORT,7680
