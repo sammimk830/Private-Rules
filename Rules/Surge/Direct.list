@@ -10,3 +10,4 @@ DOMAIN,hksslvpn.cloudnifier.com
 DOMAIN,adfs.gftgrouphk.com
 DOMAIN,test365.gftgrouphk.com
 DOMAIN,tanx.com
+DEST-PORT,7680
