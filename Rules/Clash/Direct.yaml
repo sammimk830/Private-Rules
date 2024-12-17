@@ -7,3 +7,4 @@ payload:
   - DOMAIN,test365.gftgrouphk.com
   - DOMAIN,tanx.com
   - DST-PORT,7680
+  - DOMAIN-SUFFIX,doh.pub
