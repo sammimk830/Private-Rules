@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,hgcuc.com
   - DOMAIN-SUFFIX,notey.com
   - DOMAIN-SUFFIX,liveperson.net
+  - DOMAIN-SUFFIX,lpsnmedia.net
   - IP-ASN,32934,no-resolve #facebook
   - IP-ASN,211157,no-resolve #Telegram
   - IP-ASN,44907,no-resolve #Telegram
