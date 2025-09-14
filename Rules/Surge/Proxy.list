@@ -20,9 +20,13 @@ DOMAIN-SUFFIX,lpsnmedia.net
 DOMAIN-SUFFIX,pccwmobile.com
 DOMAIN-SUFFIX,hkt-smartline.com
 IP-ASN,4515,no-resolve #pccw
-IP-ASN,32934,no-resolve #facebook
+IP-ASN,32934,no-resolve #Facebook
 IP-ASN,211157,no-resolve #Telegram
 IP-ASN,44907,no-resolve #Telegram
 IP-ASN,59930,no-resolve #Telegram
 IP-ASN,62014,no-resolve #Telegram
 IP-ASN,62041,no-resolve #Telegram
+IP-ASN,15169,no-resolve #Google
+IP-ASN,13335,no-resolve #Cloudflare
+IP-ASN,9474,no-resolve #SmarTone
+IP-ASN,9304,no-resolve #HGC
