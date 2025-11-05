@@ -27,3 +27,8 @@ payload:
   - IP-ASN,59930,no-resolve #Telegram
   - IP-ASN,62014,no-resolve #Telegram
   - IP-ASN,62041,no-resolve #Telegram
+  - IP-ASN,15169,no-resolve #Google
+  - IP-ASN,13335,no-resolve #Cloudflare
+  - IP-ASN,9474,no-resolve #SmarTone
+  - IP-ASN,9304,no-resolve #HGC
+  - IP-ASN,4641,no-resolve #HKIX
