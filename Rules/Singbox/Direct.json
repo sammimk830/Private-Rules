@@ -3,11 +3,11 @@
     "rules": [
         {
             "domain_suffix": [
-                ".cn"
+                "cn"
             ],
             "domain":[
-                "hkovpn.cloudnifier.com",
-                "hksslvpn.cloudnifier.com"
+                "hkovpn.ledgerb.io",
+                "hksslvpn.ledgerb.io"
             ]
         }
     ]
