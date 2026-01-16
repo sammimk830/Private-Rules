@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,liveperson.net
 DOMAIN-SUFFIX,lpsnmedia.net
 DOMAIN-SUFFIX,pccwmobile.com
 DOMAIN-SUFFIX,hkt-smartline.com
+DOMAIN-SUFFIX,youclink.com
 IP-ASN,4515,no-resolve #pccw
 IP-ASN,32934,no-resolve #Facebook
 IP-ASN,211157,no-resolve #Telegram
