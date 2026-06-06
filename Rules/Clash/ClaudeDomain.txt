@@ -1,0 +1,23 @@
++.anthropic.com
++.claude.ai
+
+# Auth
++.auth0.com
+
+# Analytics
++.statsig.com
++.statsigapi.net
+
+# Support
++.intercom.io
++.intercomcdn.com
+
+# Monitoring
++.sentry.io
++.datadoghq.com
+
+# CDN
++.claudeusercontent.com
+
+# Cloudflare Challenge
++.challenges.cloudflare.com
