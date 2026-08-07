@@ -2,7 +2,12 @@
 hkovpn.ledgerb.io
 hksslvpn.ledgerb.io
 +.galaxyappstore.com
-adfs.gftgrouphk.com
-test365.gftgrouphk.com
-tanx.com
++.tanx.com
 +.doh.pub
++.ydycdn.com
++.sinocare.com
++.qtaeixd.com
++.sjxydc.com
++.bjmxy.net
++.ecombdimg.com
++.cjjd14.com
